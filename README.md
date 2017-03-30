@@ -1,2 +1,2 @@
-# lethalskillzz.github.io
-My Portfolio website
+# React-Portfolio
+My New Portfolio site built using Redux
